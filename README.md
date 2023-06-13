@@ -8,6 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <h2>Video Demonstration</h2>
+For a step-by-step demonstration, take a look at the video provided below.
 
 - ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com/watch?v=D5ZXduqZbso)
 
@@ -32,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/P5T1yK7.png">
 </p>
 <p>
 Go to osTicket and add a new ticket as a USER. 
@@ -40,7 +41,7 @@ Go to osTicket and add a new ticket as a USER.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Qw5f5CC.png">
 </p>
 <p>
 Assign the tickets(admin). Agent->SLA-> Priority 
@@ -48,7 +49,7 @@ Assign the tickets(admin). Agent->SLA-> Priority
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/UyUqZ0M.png">
 </p>
 <p>
 Sign back into the agent account and resolve the ticket. Close ticket status.
